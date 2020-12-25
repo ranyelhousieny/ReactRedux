@@ -1,0 +1,32 @@
+{
+    "courses":[
+        {
+            "id":1,
+            "name":"Gatsby",
+            "price":1500,
+            "type":"class",
+            "description":"Learn Gatsby + React + GitLab",
+            "img":"https://rany.tk/static/react_gatsby_gitlab.png"
+        },
+        {
+            "id":2,
+            "name":"Dropwizard",
+            "price":200,
+            "type":"self-paced",
+            "description":"Learn Dropwizard",
+            "img":"https://rany.tk/static/Dropwizard.png"
+        }
+        
+    ],
+
+    "students": [
+        {
+            "id": 1,
+            "name": "Rany"
+        },
+        {
+            "id": 2,
+            "name": "ElHousieny"
+        }
+    ]
+}
