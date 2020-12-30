@@ -7,30 +7,61 @@ class App extends React.Component
   constructor ( props )
   {
     super( props );
-    this.state = { task: ""}
+    this.state = {
+      value: "",
+      tasks: ["Learn React"]
+    }
   }
 
-  ranySubmitHandler = ( event ) =>
-  {
-    
+  onSubmit = (  ) => {
+    this.setState( {
+      tasks: [ ...this.state.tasks, this.state.value ],
+      value: ''
+    } );
+    console.log( "** onSubmit **", this.state );
+
   }
+
+  onChangeValue = event => {
+    this.setState( { value: event.target.value } );
+    console.log( "** onChangeValue **", this.state );
+  };
+    
+  
   render ()
   {
     return (
-      <div className="App">
-        <form onSubmit={this.ranySubmitHandler}>
-          <h1>ToDo List for Rany ElHousieny</h1>
-          <p>Enter a task</p>
-          <input
-            type="text"
-            value={ this.state.task }/>
+      <div>
+        <center>
+          <div>
+            <h1>ToDo List for Rany ElHousieny</h1>
+          </div>
+          <input 
+            className='form-control'
+            placeholder='Enter Your Task'
+            type='text'
+            value={ this.state.value }
+            onChange={this.onChangeValue}
+            
+          />
+          <button onClick={this.onSubmit}>Add</button>
+          <div>
+            <h2> Tasks </h2>
+            <ul>
+              { this.state.tasks.map( ( task ) => {
+                return (
+                  <div key={ task }>
+                    <label>
+                    <input type="checkbox" />{ task }</label>
+                  </div>
+                  
+                )
+              })}
+            </ul>
+          </div>
           
-          <input type='submit' />
-        
-        </form>
-        <ul>
-          <li><Checkbox task={ this.state.task }/></li>
-        </ul>
+        </center>
+
       </div>
     );
   }

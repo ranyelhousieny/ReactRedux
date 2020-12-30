@@ -1,0 +1,22 @@
+{
+    "food": [
+        {
+            "id" : 1,
+            "name": "Burger",
+            "details": "two buns, Burger, Tomatos, onions Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed voluptates labore iste laudantium libero repellendus eveniet sapiente aspernatur fuga excepturi minima enim, illum doloribus odio earum id quasi eligendi neque, quos nulla. Alias cumque odit, adipisci consequuntur unde quidem earum.",
+            "img": "https://rany.tk/food_burger.png"
+        },
+        {
+            "id" : 2,
+            "name": "Chicken Salad",
+            "details": "Chicken, Tomatos, onions Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed voluptates labore iste laudantium libero repellendus eveniet sapiente aspernatur fuga excepturi minima enim, illum doloribus odio earum id quasi eligendi neque, quos nulla. Alias cumque odit, adipisci consequuntur unde quidem earum.",
+            "img": "https://rany.tk/food_chicken_salad.png"
+        },
+        {
+            "id" : 3,
+            "name": "biryani",
+            "details": "Rice, meet, Tomatos, onions Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed voluptates labore iste laudantium libero repellendus eveniet sapiente aspernatur fuga excepturi minima enim, illum doloribus odio earum id quasi eligendi neque, quos nulla. Alias cumque odit, adipisci consequuntur unde quidem earum.",
+            "img": "https://rany.tk/food_biryani.png"
+        }
+    ]
+}
