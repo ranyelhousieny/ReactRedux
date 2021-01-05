@@ -1,0 +1,414 @@
+{
+    "food":
+    [
+    {   
+        "id":1,
+        "name": "Crock Pot Roast",
+        "ingredients": [
+            {
+                "quantity": "1 package",
+                "name": "brown gravy mix",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1 package",
+                "name": "dried Italian salad dressing mix",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 package",
+                "name": "dry ranch dressing mix",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "water",
+                "type": "Drinks"
+            }
+        ],
+        "steps": [
+            "Place meet roast in crock pot.",
+            "\t Mix the dried mixes together in a bowl and sprinkle over the roast.",
+            "\t Pour the water around the roast.",
+            "\t Cook on low for 7-9 hours."
+        ],
+        "imageURL": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/27/20/8/picVfzLZo.jpg",
+        "originalURL": "http://www.food.com/recipe/to-die-for-crock-pot-roast-27208"
+    },
+    {
+        "id":2,
+        "name": "Roasted Asparagus",
+        "ingredients": [
+            {
+                "quantity": "1 lb",
+                "name": " asparagus",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 1/2 tbsp",
+                "name": "olive oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1/2 tsp",
+                "name": "kosher salt",
+                "type": "Baking"
+            }
+        ],
+        "steps": [
+            "Preheat oven to 425°F.",
+            "\t Cut off the woody bottom part of the asparagus spears and discard.",
+            "\t With a vegetable peeler, peel off the skin on the bottom 2-3 inches of the spears (this keeps the asparagus from being all.\",string.\", and if you eat asparagus you know what I mean by that).",
+            "\t Place asparagus on foil-lined baking sheet and drizzle with olive oil.",
+            "\t Sprinkle with salt.",
+            "\t With your hands roll the asparagus around until they are evenly coated with oil and salt.",
+            "\t Roast for 10-15 minutes, depending on the thickness of your stalks.",
+            "\t They should be handeled gentally when pierced with the tip of a knife.",
+            "\t The tips of the spears turn to deep brown but observe them keenly, to avoid burning.",
+            "\t They are plain, its good to serve them with a light vinaigrette. If need something add spices to balance the meal."
+        ],
+        "imageURL": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/50/84/7/picMcSyVd.jpg",
+        "originalURL": "http://www.food.com/recipe/roasted-asparagus-50847"
+    },
+    {
+        "id":3,
+        "name": "Curried Lentils and Rice",
+        "ingredients": [
+            {
+                "quantity": "1 quart",
+                "name": "beef broth",
+                "type": "Misc"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "dried green lentils",
+                "type": "Misc"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "basmati rice",
+                "type": "Misc"
+            },
+            {
+                "quantity": "1 tsp",
+                "name": "curry powder",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1 tsp",
+                "name": "salt",
+                "type": "Condiments"
+            }
+        ],
+        "steps": [
+            "Bring broth to a low boil.",
+            "\t Add curry powder and salt.",
+            "\t Cook lentils for 20 minutes.",
+            "\t Add rice and simmer for 20 minutes.",
+            "\t Enjoy!"
+        ],
+        "imageURL": "http://dagzhsfg97k4.cloudfront.net/wp-content/uploads/2012/05/lentils3.jpg"
+    },
+    {
+        "id":4,
+        "name": "Big Night Pizza",
+        "ingredients": [
+            {
+                "quantity": "5 teaspoons",
+                "name": "yeast",
+                "type": "Baking"
+            },
+            {
+                "quantity": "5 cups",
+                "name": "flour",
+                "type": "Baking"
+            },
+            {
+                "quantity": "4 tablespoons",
+                "name": "vegetable oil",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "sugar",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2 teaspoons",
+                "name": "salt",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2 cups",
+                "name": "hot water",
+                "type": "Misc"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "pizza sauce",
+                "type": "Misc"
+            },
+            {
+                "quantity": "3/4 cup",
+                "name": "mozzarella cheese",
+                "type": "Dairy"
+            }
+        ],
+        "steps": [
+            "Add hot water to yeast in a large bowl and let all them to mix well for 15 minutes.",
+            "\t Add oil, sugar, salt and flour and allow them to mix well for next hour.",
+            "\t Knead the dough and spread it on a pan.",
+            "\t Spread pizza sauce and add the cheese.",
+            "\t Garnish it with toppings.",
+            "\t Bake at 400°F for 15 minutes.",
+            "\t Enjoy!"
+        ],
+        "imageURL": "http://upload.wikimedia.org/wikipedia/commons/c/c7/Spinach_pizza.jpg"
+    },
+    {
+        "id":5,
+        "name": "Cranberry and Apple Stuffed Acorn Squash Recipe",
+        "ingredients": [
+            {
+                "quantity": "2",
+                "name": "acorn squash",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "boiling water",
+                "type": "Drinks"
+            },
+            {
+                "quantity": "2",
+                "name": "apples chopped into 1.4 inch pieces",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "dried cranberries",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 teaspoon",
+                "name": "cinnamon",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "melted butter",
+                "type": "Dairy"
+            }
+        ],
+        "steps": [
+            "Cut squash in half, remove seeds.",
+            "\t Place squash in baking dish, cut down the sides.",
+            "\t Pour water to 1/4 th inch of bowl.",
+            "\t Bake for 30 minutes at 350°F.",
+            "\t In another large bowl, combine remaining ingredients.",
+            "\t Remove squash from oven, fill with mix.",
+            "\t Bake for 30-40 minutes more until squash tenders.",
+            "\t Enjoy!"
+        ],
+        "imageURL": "http://elanaspantry.com/wp-content/uploads/2008/10/acorn_squash_with_cranberry.jpg",
+        "originalURL": ""
+    },
+    {
+        "id":6,
+        "name": "Mic's Yorkshire Puds",
+        "ingredients": [
+            {
+                "quantity": "200g",
+                "name": "plain flour",
+                "type": "Baking"
+            },
+            {
+                "quantity": "3",
+                "name": "eggs",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "300ml",
+                "name": "milk",
+                "type": "Dairy"
+            },
+            {
+                "quantity": "3 tbsp",
+                "name": "vegetable oil",
+                "type": "Condiments"
+            }
+        ],
+        "steps": [
+            "Put the flour and some seasoning into a large bowl.",
+            "\t Keep adding eggs(one at a time).",
+            "\t Whisk in milk until you have a smooth batter.",
+            "\t Cool it in the fridge for at least 30 minutes.",
+            "\t Heat oven to 22°C/gas mark it to 7.",
+            "\t Pour the oil into the holes of muffin tin.",
+            "\t Heat tin in the oven for 5 minutes.",
+            "\t Ladle the batter into the tin.",
+            "\t Bake for 30 minutes until well browned and risen."
+        ],
+        "imageURL": "http://upload.wikimedia.org/wikipedia/commons/f/f9/Yorkshire_Pudding.jpg",
+        "originalURL": "http://upload.wikimedia.org/wikipedia/commons/f/f9/Yorkshire_Pudding.jpg"
+    },
+    {
+        "id":7,
+        "name": "Old-Fashioned Oatmeal Cookies",
+        "ingredients": [
+            {
+                "quantity": "1 cup",
+                "name": "raisins",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "cup water",
+                "type": "Drinks"
+            },
+            {
+                "quantity": "3/4 cup",
+                "name": "shortening",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1 1/2 cups",
+                "name": "sugar",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2 1/2 cups",
+                "name": "flour",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1 tsp.",
+                "name": "soda",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1 tsp.",
+                "name": "salt",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1 tsp.",
+                "name": "cinnamon",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1/2 tsp.",
+                "name": "baking powder",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1/2 tsp.",
+                "name": "cloves",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2 cups",
+                "name": "oats",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "chopped nuts",
+                "type": "Baking"
+            }
+        ],
+        "steps": [
+            "Boil raisins with water over medium heat until they are plump, for about 15 minutes.",
+            "\t Drain raisins, reserving the liquid.",
+            "\t Add enough water to reserved liquid to measure 1/2 cup.",
+            "\t Heat oven to 400°C.",
+            "\t Mix it thoroughly with sugar, eggs and vanilla.",
+            "\t Stir in reserved liquid.",
+            "\t Blend in remaining ingredients.",
+            "\t Drop dough by rounded teaspoon about 2 inches apart onto ungreased baking sheet.",
+            "\t Bake for next 8 to 10 minutes.",
+            "\t About six pieces of cookies."
+        ],
+        "imageURL": "http://s3.amazonaws.com/gmi-digital-library/65caecf7-a8f7-4a09-8513-2659cf92871e.jpg",
+        "originalURL": "#"
+    },
+    {
+        "id":9,
+        "name": "Curried chicken salad",
+        "ingredients": [
+            {
+                "quantity": "3",
+                "name": "skinless, boneless chicken breasts, halved lengthwise",
+                "type": "Meat"
+            },
+            {
+                "quantity": "1/2 cup",
+                "name": "mayonnaise",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "lemon zest",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 tbsp ",
+                "name": "lemon juice",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 1/2 tsp",
+                "name": "curry powder",
+                "type": "Baking"
+            },
+            {
+                "quantity": "1/4 tsp",
+                "name": "salt",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2",
+                "name": "ripe mangoes, diced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "dried cranberries",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2",
+                "name": "green onions, thinly sliced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1",
+                "name": "celery stalk, finely chopped",
+                "type": "Produce"
+            },
+            {
+                "quantity": "6 leaves",
+                "name": "Boston lettuce",
+                "type": "Produce"
+            },
+            {
+                "quantity": "6",
+                "name": "English muffins, toasted",
+                "type": "Misc"
+            }
+        ],
+        "steps": [
+            "Arrange the chicken in a single layer within the large pot.",
+            "\t Add water and boil chicken over medium-high.",
+            "\t Flip chicken, reduce heat to medium and simmer until cooked, about 6 more min.",
+            "\t Cool.",
+            "\t Add mayo with lemon zest, juice, curry and salt in large bowl.",
+            "\t Using 2 forks, shred chicken, then add mayo mixture with mango, cranberries, green onions and celery.",
+            "\t Divide among muffins with lettuce leaves",
+            "\t Serve the Sandwich with tops along with chicken"
+        ],
+        "imageURL": "http://www.chatelaine.com/wp-content/uploads/2013/05/Curried-chicken-salad.jpg",
+        "originalURL": "http://www.chatelaine.com/recipe/stovetop-cooking-method/curried-chicken-salad/"
+    }
+]
+}
